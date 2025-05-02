@@ -36,7 +36,7 @@ Este proyecto implementa una API REST para la gestión de clientes y tickets, de
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/usuario/backend-api.git
+git clone  https://github.com/chudobara/backend-api.git
 cd backend-api
 ```
 
